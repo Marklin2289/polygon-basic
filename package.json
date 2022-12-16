@@ -1,0 +1,11 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Marklin2289/polygon-basic.git",
+  "author": "marklin2289 <marklin2289@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^1.2.1"
+  }
+}

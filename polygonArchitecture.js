@@ -22,3 +22,11 @@
 // Fund transfer between EOA(externally owned account)
 // Smart contract deployment
 // Function executed on deployed smart contract
+
+// Polygonscan API services
+
+// * Blocks API
+// * Transaction API
+// * Account API
+// * Contract API
+// * Tokens API
