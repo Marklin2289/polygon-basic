@@ -9,3 +9,15 @@ axios({
     console.log("The recommended gas price is : \n", response.data);
   }
 });
+
+/**
+ The recommended gas price is : 
+ {
+  safeLow: 37.7,
+  standard: 46.5,
+  fast: 47,
+  fastest: 47,
+  blockTime: 2,
+  blockNumber: 36885271
+}
+*/
